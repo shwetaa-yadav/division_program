@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sec2.py", "sec2.py.pyproj", "{5AD0F9AE-99F5-49EB-9CD5-E249F643C0C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AD0F9AE-99F5-49EB-9CD5-E249F643C0C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD0F9AE-99F5-49EB-9CD5-E249F643C0C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6670C19-E561-4707-B8F7-F754A850C934}
+	EndGlobalSection
+EndGlobal
